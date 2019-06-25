@@ -1,2 +1,3 @@
 # Recap
-Recap app 
+Recap app. Welcome to the Github.
+
